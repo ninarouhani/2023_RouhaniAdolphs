@@ -9,4 +9,6 @@ the four notebooks in the folder run every result and figure in the paper (loadi
 
 03_autobioMem_indivDiff.ipynb: figures and analysis of individual difference measures on autobiographical memory (in R)
 
-04_collectiveMem.ipynb: figures and analysis of collective memory task (in R)
+04_autobioMem_topicModeling.ipynb: figures for topic modeling analysis (in R)
+
+05_collectiveMem.ipynb: figures and analysis of collective memory task (in R)
