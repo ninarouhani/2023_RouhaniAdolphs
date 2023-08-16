@@ -1,5 +1,6 @@
 # 2023_RouhaniAdolphs
 data and code for analysis and figures in "Collective events and individual affect shape autobiographical memory."
+https://www.pnas.org/doi/10.1073/pnas.2221919120
 
 the five notebooks in the folder run every result and figure in the paper (loading data files in the dataFiles folder) in the order they are presented in the manuscript. they are more broadly grouped in the following way: 
 
